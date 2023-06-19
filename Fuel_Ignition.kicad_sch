@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c52bbad5-2d1b-49ef-b388-70e882942225)
+
+  (paper "A4")
+
+  (title_block
+    (title "0.4")
+    (date "2021-03-27")
+    (rev "4d")
+    (company "Speeduino")
+  )
+
+  (lib_symbols
+  )
+
+)
