@@ -1745,8 +1745,11 @@
     (path "/00000000-0000-0000-0000-00005cd18ec3/00000000-0000-0000-0000-00005cfdb7bc"
       (reference "#PWR0108") (unit 1) (value "VDDA") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005cd18d89/cbcebef0-6c40-43ca-9fc0-3b0de277cbcf"
+    (path "/00000000-0000-0000-0000-00005cd18c17/b074715b-1cb8-47f6-9b0e-f39a625938a7"
       (reference "#PWR0109") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cd18c17/d93fedf5-0b7a-419c-85d4-e315b0c134ca"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/46ccbee1-4e2a-4bf8-8e1f-6e0ffec1a5d0"
       (reference "C1") (unit 1) (value "1nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -1769,8 +1772,11 @@
     (path "/00000000-0000-0000-0000-00005cd18ec3/00000000-0000-0000-0000-00005cd2925e"
       (reference "C21") (unit 1) (value "47uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B")
     )
-    (path "/00000000-0000-0000-0000-00005cd18d89/ce3539f2-f8c0-4550-8f53-ea4338374213"
+    (path "/00000000-0000-0000-0000-00005cd18c17/f6b4ca33-73f3-41f8-91fd-9b95d894a089"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005cd18d89/eedc2755-d9ce-4ff1-8e53-97a870966bc8"
+      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005cd18ec3/00000000-0000-0000-0000-00005cd266c1"
       (reference "D14") (unit 1) (value "B130-13-F") (footprint "Diode_SMD:D_SMA")
@@ -1783,6 +1789,9 @@
     )
     (path "/00000000-0000-0000-0000-00005cd19033/dd744af1-521a-49e9-b3da-f660cdf6b1e6"
       (reference "J3") (unit 1) (value "trionic5_header") (footprint "saab_lib:trionic5_header")
+    )
+    (path "/00000000-0000-0000-0000-00005cd18c17/a71cb773-5b7b-49cb-91b1-70c3ac04278a"
+      (reference "Q1") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:TO-252-2")
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/ad6741cb-fe35-4c65-9870-d42d36b2743a"
       (reference "R1") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -1797,13 +1806,16 @@
       (reference "R4") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/1e557068-ee88-430e-a0bf-105807ee2e4a"
-      (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R5") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/0009accf-9bb8-4fc2-bb99-31861aa4a36a"
       (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/00000000-0000-0000-0000-00005cd18d89/2f1b2e7c-6fef-4199-a3d0-fa74bdc60859"
+    (path "/00000000-0000-0000-0000-00005cd18c17/5825be66-1528-4341-9c72-6ea207b3e68c"
       (reference "R7") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005cd18c17/ba595747-acd5-463b-82ad-a3bee0cb82b6"
+      (reference "R8") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ab06edff-28aa-4a07-b67c-5ca38a53ee54"
       (reference "U1") (unit 1) (value "Olimex_STM32-407_Extension_Header") (footprint "saab_lib:Olimex_STM32-E407_Extenstion_Header")
