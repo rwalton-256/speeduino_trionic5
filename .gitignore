@@ -1,3 +1,7 @@
 **#
 *.zip
 *.gbrjob
+*.gbr
+*.csv
+*.pos
+*.xml

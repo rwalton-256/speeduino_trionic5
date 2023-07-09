@@ -905,7 +905,7 @@
     (property "Datasheet" "~" (id 3) (at 254 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "JLCPCB" "C126319" (id 4) (at 254 50.8 90)
+    (property "JLCPCB" "C84263" (id 4) (at 254 50.8 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 05f648da-cadc-4208-9538-79e72426dfb0))
