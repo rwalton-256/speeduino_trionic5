@@ -4,7 +4,7 @@
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.049999999999999996,
-        "copper_line_width": 0.19999999999999998,
+        "copper_line_width": 0.254,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
         "copper_text_size_v": 1.5,
@@ -121,7 +121,11 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.254,
+        0.508,
+        0.762,
+        1.27
       ],
       "via_dimensions": [
         {
